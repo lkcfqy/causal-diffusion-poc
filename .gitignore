@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+.Python
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Large files
+data/
+# saved_models/
+# results/
